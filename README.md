@@ -18,3 +18,5 @@
 - [ ] #15 - Diverse Behavior and Skill Discovering = Curriculum -> (Georg)
 - [ ] #16 - Diffusion RL and Scaling RL
 - [ ] #17 - Topic?? 
+## Exams as Anki (maybe leaving out highly mathematical shit)
+- [ ] #Exam WS2122 as Anki  -> Georg 
