@@ -20,3 +20,8 @@
 - [ ] #17 - Topic?? 
 ## Exams as Anki (maybe leaving out highly mathematical shit)
 - [ ] #Exam WS2122 as Anki  -> Georg 
+- [ ] #Exam WS2324 as Anki 
+- [ ] #Exam WS2425 as Anki
+- [ ] #Exam SS24 as Anki 
+- [ ] #Exam Example Questions WS2122 as Anki 
+- [ ] #Exam Example Questions WS2223 as Anki 
