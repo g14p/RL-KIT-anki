@@ -8,7 +8,7 @@
 - [ ] #05 - Policy Gradient
 - [ ] #06 - Offpolicy Actor critic
 - [ ] #07 - Control as Inference  
-- [ ] #08 - Trust Region Methods
+- [x] #08 - Trust Region Methods (Léo)
 - [ ] #09 - Imitation Learning -> (Georg)
 - [ ] #10 - Offline RL
 - [ ] #12 - Motion Primitives and Temp. Extend. Actions
@@ -19,9 +19,9 @@
 - [ ] #16 - Diffusion RL and Scaling RL
 - [ ] #17 - Topic?? 
 ## Exams as Anki (maybe leaving out highly mathematical shit)
-- [ ] #Exam WS2122 as Anki  -> Georg 
+- [ ] #Exam WS2122 as Anki  -> (Georg)
 - [ ] #Exam WS2324 as Anki 
-- [ ] #Exam WS2425 as Anki
+- [ ] #Exam WS2425 as Anki -> (Léo)
 - [ ] #Exam SS24 as Anki 
 - [ ] #Exam Example Questions WS2122 as Anki 
 - [ ] #Exam Example Questions WS2223 as Anki 
