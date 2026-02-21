@@ -9,9 +9,9 @@
 - [x] #06 - Offpolicy Actor critic (Jan)
 - [ ] #07 - Control as Inference  
 - [x] #08 - Trust Region Methods (Léo)
-- [ ] #09 - Imitation Learning -> (Georg)
-- [ ] #10 - Offline RL
-- [ ] #12 - Motion Primitives and Temp. Extend. Actions
+- [x] #09 - Imitation Learning -> (Georg)
+- [(x)] #10 - Offline RL -> (Jan's AAI recycling)
+- [(x)] #12 - Motion Primitives and Temp. Extend. Actions (Jan's AAI recycling)
 - [ ] #13 - Trafos
 - [ ] #14 - Diffusion1
 - [ ] #14b Diffusion2 (I want to look into it -> Jan)
@@ -19,7 +19,7 @@
 - [ ] #16 - Diffusion RL and Scaling RL
 - [ ] #17 - Topic?? 
 ## Exams as Anki (maybe leaving out highly mathematical shit)
-- [ ] #Exam WS2122 as Anki  -> (Georg)
+- [x] #Exam WS2122 as Anki  -> (Georg)
 - [ ] #Exam WS2324 as Anki 
 - [ ] #Exam WS2425 as Anki -> (Léo)
 - [ ] #Exam SS24 as Anki 
